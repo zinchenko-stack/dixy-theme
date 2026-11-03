@@ -52,7 +52,7 @@ export const dixyTheme = {
     'on-accent': '#020202', // как on-secondary: белый на оранжевом не читается
     'accent-light': '#fef4e9', // светлая оранжевая подложка (было #fff3e6)
     'primary-light': '#f2e8ff', // светлая фиолетовая подложка (было #eaddff)
-    'primary-dark': '#21005d', // аналога нет — оставлен прежний
+    'primary-dark': '#020202', // текст в кнопках — наш text/primary (было #21005d)
   },
   variables: {
     'border-color': '#020202',
